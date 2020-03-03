@@ -2,3 +2,4 @@ Hai....Hello
 hai vamshi
 git fetch
 git merge
+git pull
