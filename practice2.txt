@@ -3,3 +3,4 @@ hai vamshi
 git fetch
 git merge
 git pull
+git checkout
